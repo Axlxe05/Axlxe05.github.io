@@ -76,7 +76,7 @@ document.getElementById("noBtn").addEventListener("click", function () {
 
       document.getElementById("noBtn").innerHTML =
         "Chole estaria super enfadado con tu decision";
-      document.getElementById("siBtn").innerHTML = "es bromi si quiero";
+      document.getElementById("siBtn").innerHTML = "es bromi siiii quiero";
       document.getElementById("noBtn").style.backgroundColor = "#F1330A";
       document.getElementById("sadGifContainer").style.display = "none";
       document.getElementById("sadGifContainer2").style.display = "block";
